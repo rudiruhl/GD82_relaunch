@@ -1,0 +1,46 @@
+.home-wrap
+  display: flex
+  min-height: 100vh
+
+  @media (max-width: 775px)
+    display: block
+
+.home-sections
+  flex: 1
+
+  section
+    padding: 100px 0
+
+  .flex
+    display: flex
+    flex-direction: row
+    justify-content: center
+
+    @media (max-width: 500px)
+      flex-direction: column
+
+  .flex-2
+    display: flex
+    flex-direction: row
+    justify-content: center
+
+
+// columns
+.col-1
+  max-width: 450px
+  margin: 0 10px
+  //background: pink
+
+  @media (max-width: 650px)
+    margin: 0 auto
+
+.col-2
+  max-width: 450px
+  margin: 0 10px
+  //background: pink
+
+.col-3
+  max-width: 650px
+  margin: 0 10px
+  p
+    text-align: justify
