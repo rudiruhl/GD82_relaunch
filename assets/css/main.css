@@ -480,26 +480,25 @@ body {
       transform: translateY(0%); } }
 
 .home-sections section {
-  padding: 100px 0; }
-  @media (max-width: 650px) {
-    .home-sections section .flex {
-      flex-direction: column;
-      justify-content: space-around; } }
-
-.home-sections p {
+  padding: 100px 0;
   font-family: Lato;
   font-size: 16px;
   font-weight: 400;
   color: #F5F5F5;
   line-height: normal; }
+  @media (max-width: 650px) {
+    .home-sections section .flex {
+      flex-direction: column;
+      justify-content: space-around; } }
 
 .home-sections img {
   height: 350px; }
 
 .home-sections .home h1 {
   text-align: center;
-  font-family: Roboto;
-  font-size: 30px; }
+  font-family: Railway;
+  font-size: 30px;
+  color: #6D0E11; }
 
 .home-sections .home h2 {
   text-align: center;
@@ -514,7 +513,8 @@ body {
 .home-sections .home h4 {
   text-align: center;
   font-family: Roboto;
-  font-size: 24px; }
+  font-size: 24px;
+  color: #6D0E11; }
 
 .home-sections .home h5 {
   text-align: center;
