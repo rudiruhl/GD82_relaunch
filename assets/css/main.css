@@ -598,6 +598,9 @@ body {
 
 .mygallery {
   text-align: center; }
+  .mygallery img {
+    max-width: 200px;
+    max-height: 150px; }
 
 .home-wrap {
   display: flex;
