@@ -1,12 +1,11 @@
   $(document).ready(function() {
       $('.mygallery').justifiedGallery({
-          rowHeight: 120,
-          maxRowHeight: null,
-          margins: 1,
+          rowHeight: 100,
+          margins: 3,
           border: 0,
           rel: 'mygallery',
-          lastRow: 'justify',
+          lastRow: 'nojustify',
           captions: false,
           randomize: false,
-      })
+      });
   })
