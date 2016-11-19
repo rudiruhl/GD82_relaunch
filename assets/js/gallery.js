@@ -4,7 +4,7 @@
                 maxRowHeight: null,
                 margins: 1,
                 border: 0,
-                rel: 'liveDemo',
+                rel: 'mygallery',
                 lastRow: 'justify',
                 captions: false,
                 randomize: false,
