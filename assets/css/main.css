@@ -484,7 +484,7 @@ body {
 
 .home-sections section {
   padding: 100px 0;
-  font-family: Lato;
+  font-family: Railway;
   font-size: 16px;
   font-weight: 400;
   color: #F5F5F5;
@@ -499,29 +499,29 @@ body {
 
 .home-sections .home h1 {
   text-align: center;
-  font-family: Railway;
+  font-family: Patua One;
   font-size: 30px;
   color: #6D0E11; }
 
 .home-sections .home h2 {
   text-align: center;
-  font-family: Roboto;
+  font-family: Railway;
   font-size: 20px; }
 
 .home-sections .home h3 {
   text-align: center;
-  font-family: Lato;
+  font-family: Patua One;
   font-size: 12px; }
 
 .home-sections .home h4 {
   text-align: center;
-  font-family: Roboto;
+  font-family: Patua One;
   font-size: 24px;
   color: #6D0E11; }
 
 .home-sections .home h5 {
   text-align: center;
-  font-family: Lato;
+  font-family: Railway;
   font-size: 22px;
   color: #F5F5F5; }
 
@@ -545,7 +545,7 @@ body {
       justify-content: space-around; } }
 
 .home-sections p {
-  font-family: Lato;
+  font-family: Railway;
   font-size: 16px;
   font-weight: 400;
   color: #F5F5F5;
@@ -556,17 +556,18 @@ body {
 
 .home-sections .home h1 {
   text-align: center;
-  font-family: Roboto;
+  font-family: Patua One;
   font-size: 30px; }
 
 .home-sections .home h2 {
   text-align: center;
-  font-family: Roboto;
-  font-size: 20px; }
+  font-family: Railway;
+  font-size: 20px;
+  color: #F5F5F5; }
 
 .home-sections .home h3 {
   text-align: center;
-  font-family: Lato;
+  font-family: Railway;
   font-size: 12px; }
 
 #footer {
@@ -577,7 +578,7 @@ body {
   height: 40px;
   background: #0E0E0E;
   text-align: right;
-  font-family: Lato;
+  font-family: Patua One;
   font-size: 14px; }
   #footer p {
     margin-top: 10px;
@@ -590,7 +591,7 @@ body {
     max-width: 350px;
     max-height: 75px; }
   .home-sections .gallery.col-2 p {
-    font-family: Lato;
+    font-family: Railway;
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
