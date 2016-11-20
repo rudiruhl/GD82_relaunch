@@ -358,7 +358,9 @@ th {
   padding: 0; }
 
 body {
-  background: #111111; }
+  background-color: #232526;
+  background-image: -webkit-linear-gradient(left, #232526, #414345);
+  background-image: linear-gradient(to right,#232526, #414345); }
 
 .home-wrap header {
   width: 135px;
