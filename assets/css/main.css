@@ -358,13 +358,11 @@ th {
   padding: 0; }
 
 body {
-  background-color: #232526;
-  background-image: -webkit-linear-gradient(left, #232526, #414345);
-  background-image: linear-gradient(to right,#232526, #414345); }
+  background: #232526; }
 
 .home-wrap header {
   width: 135px;
-  background: #0E0E0E;
+  background: #181917;
   padding: 30px 0; }
   .home-wrap header .header-position {
     position: fixed;
@@ -390,7 +388,7 @@ body {
   .home-wrap header .site-nav {
     font-family: Patua One;
     font-size: 16px;
-    color: #6D0E11; }
+    color: #7A1814; }
     .home-wrap header .site-nav ul {
       list-style: none;
       margin: 20px 0;
@@ -503,7 +501,7 @@ body {
   text-align: center;
   font-family: Patua One;
   font-size: 30px;
-  color: #6D0E11; }
+  color: #7A1814; }
 
 .home-sections .home h2 {
   text-align: center;
@@ -519,7 +517,7 @@ body {
   text-align: center;
   font-family: Patua One;
   font-size: 24px;
-  color: #6D0E11; }
+  color: #7A1814; }
 
 .home-sections .home h5 {
   text-align: center;
@@ -537,7 +535,7 @@ body {
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
-    color: #6D0E11; }
+    color: #7A1814; }
 
 .home-sections section {
   padding: 100px 0; }
@@ -578,14 +576,14 @@ body {
   left: 0px;
   bottom: 0px;
   height: 40px;
-  background: #0E0E0E;
+  background: #181917;
   text-align: right;
   font-family: Patua One;
   font-size: 14px; }
   #footer p {
     margin-top: 10px;
     margin-right: 30px;
-    color: #6D0E11; }
+    color: #7A1814; }
 
 .home-sections .gallery.col-2 {
   max-width: 350px; }
@@ -597,7 +595,7 @@ body {
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
-    color: #6D0E11; }
+    color: #7A1814; }
 
 .mygallery {
   text-align: center;
