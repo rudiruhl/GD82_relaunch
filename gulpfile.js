@@ -2,9 +2,9 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var browserSync = require('browser-sync').create();
 
-// Tasks
+
 gulp.task('sass', function() {
-    return gulp.src('assets/css/**/*.scss') // Gets all files ending with .scss in app/scss
+    return gulp.src('assets/css/**/*.scss')
         .pipe(sass())
         .pipe(gulp.dest('assets/css'))
         .pipe(browserSync.reload({
@@ -23,5 +23,4 @@ gulp.task('browserSync', function() {
 gulp.task('watch', ['browserSync', 'sass'], function() {
     gulp.watch('assets/css/**/*.sass', ['sass']);
     gulp.watch('assets/css/**/*.scss', ['sass']);
-    // Other watchers
 });
