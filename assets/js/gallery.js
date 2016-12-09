@@ -7,5 +7,13 @@
           lastRow: 'nojustify',
           captions: false,
           randomize: false,
+      }).on('jg.complete', function() {
+          $(this).find('a').colorbox({
+              maxWidth: '80%',
+              maxHeight: '80%',
+              opacity: 0.8,
+              transition: 'elastic',
+              current: ''
+          });
       });
   });
