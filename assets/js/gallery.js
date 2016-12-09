@@ -4,7 +4,7 @@
           margins: 3,
           border: 0,
           rel: 'mygallery',
-          lastRow: 'justify',
+          lastRow: 'nojustify',
           captions: false,
           randomize: false,
       });
