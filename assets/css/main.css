@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Patua+One|Raleway");
+@import url("https://fonts.googleapis.com/css?family=Rye|Signika");
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -386,7 +386,7 @@ body {
     padding: 0;
     margin: 0; }
   .home-wrap header .site-nav {
-    font-family: Patua One;
+    font-family: Rye;
     font-size: 16px;
     color: #7A1814; }
     .home-wrap header .site-nav ul {
@@ -484,7 +484,7 @@ body {
 
 .home-sections section {
   padding: 100px 0;
-  font-family: Railway;
+  font-family: Rye;
   font-size: 16px;
   font-weight: 400;
   color: #F5F5F5;
@@ -499,29 +499,29 @@ body {
 
 .home-sections .home h1 {
   text-align: center;
-  font-family: Patua One;
+  font-family: Rye;
   font-size: 30px;
   color: #7A1814; }
 
 .home-sections .home h2 {
   text-align: center;
-  font-family: Railway;
+  font-family: Signika;
   font-size: 20px; }
 
 .home-sections .home h3 {
   text-align: center;
-  font-family: Patua One;
+  font-family: Rye;
   font-size: 12px; }
 
 .home-sections .home h4 {
   text-align: center;
-  font-family: Patua One;
+  font-family: Rye;
   font-size: 24px;
   color: #7A1814; }
 
 .home-sections .home h5 {
   text-align: center;
-  font-family: Railway;
+  font-family: Signika;
   font-size: 22px;
   color: #F5F5F5; }
 
@@ -531,7 +531,7 @@ body {
     max-width: 100px;
     max-height: 120px; }
   .home-sections .member.col-2 p {
-    font-family: Patua One;
+    font-family: Rye;
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
@@ -576,7 +576,7 @@ body {
     max-width: 350px;
     max-height: 75px; }
   .home-sections .gallery.col-2 p {
-    font-family: Railway;
+    font-family: Rye;
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
@@ -601,7 +601,7 @@ body {
     #footer {
       text-align: center; } }
   #footer p {
-    font-family: Patua One;
+    font-family: Rye;
     color: #7A1814; }
 
 .home-wrap {
